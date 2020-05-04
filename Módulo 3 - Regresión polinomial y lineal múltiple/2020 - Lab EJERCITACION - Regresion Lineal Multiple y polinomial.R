@@ -36,12 +36,13 @@ summary(lm.fit)
 # un dataframe con los resultados de la regresion
 
 
+names(summary(lm.fit))
+summary(lm.fit)$adj.r.squared
 
+mod.reg = as.character(summary(lm.fit)$call)[2]
+mod.r2_aj = summary(lm.fit)$adj.r.squared
 
-
-
-
-
+r2.ajustado = data.frame(modelo = mod.reg, r2.aj = mod.r2_aj, StringsAsFactors = F)
 
 #Qué pasa si queremos probar la regresión múltiple pero sin un campo?
 # -->  ACTIVIDAD 2: SACAR UN CAMPO Y ACTUALIZAR EL DATAFRAME CON LAS REGRESIONES
