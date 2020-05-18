@@ -1,5 +1,5 @@
 # CursoEGIDE2020
-Archivos del curso de Big Data y Machine Learning de la escuela de graduados EGIDE de la Facultad de ingeniería UBA.
+Archivos del curso de Big Data y Machine Learning de la escuela de graduados EGIDE de la Facultad de ingeniería UBA entre abril y junio de 2020.
 
  Preliminares de Matemática, R y Python
  Preliminares Prob/Estad, Álgebra y Cálculo Diferencial
@@ -32,11 +32,13 @@ Análisis de Componentes Principales
 Clustering K-Means y Jerarquizado
 
  Redes Neuronales y Aprendizaje Profundo
- Tipos, Funcion de activación sigmoidea
- Perceptrón Multicapa
- Funciones de activación Tanh y ReLU
- Frameworks H20 y Tensorflow
+Tipos, Funcion de activación sigmoidea
+Perceptrón Multicapa
+Funciones de activación Tanh y ReLU
+Frameworks H20 y Tensorflow
+
  Big Data
- Cloud Services
- Arquitecturas de Big Data
- GFS y Map Reduce
+Cloud Services
+Arquitecturas de Big Data
+GFS y Map Reduce
+Hadoop y Spark
