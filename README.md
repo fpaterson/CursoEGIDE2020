@@ -1,5 +1,18 @@
 # CursoEGIDE2020
 Archivos del curso de Big Data y Machine Learning de la escuela de graduados EGIDE de la Facultad de ingeniería UBA entre abril y junio de 2020.
+-------------------------------------------------------------------------------------------------------------
+*Presentación y objetivos:*
+La ciencia de datos trata sobre la explotación de datos con el fin de realizar análisis descriptivos y/o
+predictivos a partir de ella. En el mundo de hoy, donde se generan una enorme cantidad de datos en forma
+continua (Big Data), el análisis de esta información mediante técnicas de Minería de Datos (Data Mining) y
+Aprendizaje Estadístico (también llamado Machine Learning) juega un papel crucial en los mas variados
+campos y disciplinas: investigación médica y bioquímica, análisis de redes sociales, finanzas, operaciones
+comerciales y de producción, pronósticos meteorológicos, reconocimiento de imágenes, etc.
+El objetivo de esta curso es presentar los fundamentos de Data Mining y de Aprendizaje Estadístico
+(Machine Learning), sus técnicas y algoritmos, utilizando para ello los Lenguajes de programación R y
+Python. ce.
+A su vez se presentarán conceptos de arquitecturas de Big Data como sistemas distribuidos y escalablas de
+almacenamiento, frameworks Hadoop y Spark.
 
  Preliminares de Matemática, R y Python
  Preliminares Prob/Estad, Álgebra y Cálculo Diferencial
