@@ -1,7 +1,5 @@
 # CursoEGIDE2020
-Archivos del curso de Big Data y Machine Learning de la escuela de graduados EGIDE de la Facultad de ingeniería UBA entre abril y junio de 2020.
-
-Agregué también PDF's del cursod e Acámica que son relevantes para este.
+Archivos del curso de Big Data y Machine Learning de la escuela de graduados EGIDE de la Facultad de ingeniería UBA entre abril y junio de 2020. Agregué también PDF's del curso de Acámica que son relevantes para este.
 -------------------------------------------------------------------------------------------------------------
 *Presentación y objetivos:*
 La ciencia de datos trata sobre la explotación de datos con el fin de realizar análisis descriptivos y/o
